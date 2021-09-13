@@ -1,6 +1,7 @@
 #### Hi there 👋  
 #### My name is Anna 
 
+🌱 I’m currently learning Next.js
 Here is my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app), which was originally created during and thanks to the [Next.js tutorial](https://nextjs.org/learn).
 
 <!--
