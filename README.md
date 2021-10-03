@@ -1,7 +1,9 @@
 #### Hi there 👋  
 #### My name is Anna 
 
-Here is my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app), which was originally created during and thanks to the [Next.js tutorial](https://nextjs.org/learn). You can read there how you to reach me 📫
+Here is my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app), which was originally created during and thanks to the [Next.js tutorial](https://nextjs.org/learn). 
+
+You can read there how you to reach me 📫
 
 <!--
 **AniaIvanova/AniaIvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
