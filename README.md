@@ -5,6 +5,8 @@ Here is my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app), w
 
 You can read there how you to reach me 📫
 
+🌱 I’m currently learning database and SQL
+
 <!--
 **AniaIvanova/AniaIvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
