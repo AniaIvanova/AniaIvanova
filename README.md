@@ -1,5 +1,5 @@
 #### Hi there 👋  
-My name is Anna. This is my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app) created thanks to the [Next.js tutorial](https://nextjs.org/learn). You can read there how to reach me 📫
+My name is Anna. This is my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app) created due to the [Next.js tutorial](https://nextjs.org/learn). You can read there how to reach me 📫
 
 
 
