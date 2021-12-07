@@ -1,5 +1,7 @@
 #### Hi there 👋  
-My name is Anna. You can read how to reach me 📫 on my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app) created due to [Next.js tutorial](https://nextjs.org/learn).
+My name is Anna. 
+
+You can read how to reach me 📫 on my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app) created due to [Next.js tutorial](https://nextjs.org/learn).
 
 
 
