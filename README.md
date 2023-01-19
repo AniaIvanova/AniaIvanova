@@ -2,9 +2,9 @@
 
 You can find how to reach me 📫 on my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app) created according to [Next.js tutorial](https://nextjs.org/learn) or in the [page of my scientific interests](https://ivanova-a.github.io)
 
-03.01.2023
+19.01.2023
 
-[Красивый Кот](https://aniaivanova.github.io/my-site/)
+[Красивый House](https://aniaivanova.github.io/my-site/)
 
 <!--
 **AniaIvanova/AniaIvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
