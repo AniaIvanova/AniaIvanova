@@ -4,7 +4,7 @@ You can find how to reach me 📫 on my [trainee website-blog](https://nextjs-bl
 
 19.01.2023
 
-[Красивый House](https://aniaivanova.github.io/my-site/)
+[Cozy House](https://aniaivanova.github.io/my-site/)
 
 <!--
 **AniaIvanova/AniaIvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
