@@ -2,7 +2,7 @@
 
 You can find how to reach me 📫 on my [trainee website-blog](https://nextjs-blog-aniaivanova.vercel.app) created according to [Next.js tutorial](https://nextjs.org/learn) or in the [page of my scientific interests](https://ivanova-a.github.io)
 
-31.01.2023
+05.02.2023
 
 [Cozy House](https://aniaivanova.github.io/my-site/)
 
